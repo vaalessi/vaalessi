@@ -10,9 +10,6 @@ Passionate about AI and ML in deep tech / bio. 16 years of experience in develop
   <a href="http://linkedin.com/in/vincentaalessi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="vaalessi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=vaalessi&style=flat-square&color=blue" alt=""/>
 
